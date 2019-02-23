@@ -31,3 +31,7 @@ class Java8CodecExtension extends AbstractGlobalExtension {
 ```
 
 However, the java-8 plugin has been removed for Grails 4, and this workaround is no longer valid.
+
+This project was created using Grails 4.0.0.M1
+
+`create-app -features mongodb`
